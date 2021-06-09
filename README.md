@@ -7,4 +7,4 @@ Just Started to get into developing
 
 ### Languages To Learn
 
-Python [X] Java []  C# []
+Python [X] Java [ ]  C# [ ]
